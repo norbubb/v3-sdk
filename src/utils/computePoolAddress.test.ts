@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@uniswap/sdk-core'
+import { ChainId, Token } from '@jaguarswap/sdk-core-old'
 import { FeeAmount } from '../constants'
 import { computePoolAddress } from './computePoolAddress'
 

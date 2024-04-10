@@ -7,7 +7,7 @@ import {
   validateAndParseAddress,
   WETH9,
   Currency
-} from '@uniswap/sdk-core'
+} from '@jaguarswap/sdk-core-old'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { Position } from './entities/position'

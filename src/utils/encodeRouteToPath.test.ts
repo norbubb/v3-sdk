@@ -1,4 +1,4 @@
-import { ChainId, ETHER, Token, WETH9 } from '@uniswap/sdk-core'
+import { ChainId, ETHER, Token, WETH9 } from '@jaguarswap/sdk-core-old'
 import { FeeAmount } from '../constants'
 import { Pool } from '../entities/pool'
 import { Route } from '../entities/route'

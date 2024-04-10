@@ -1,4 +1,4 @@
-import { ChainId, Price, Token } from '@uniswap/sdk-core'
+import { ChainId, Price, Token } from '@jaguarswap/sdk-core-old'
 import { tickToPrice } from './index'
 import { priceToClosestTick } from './priceTickConversions'
 
